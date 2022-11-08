@@ -31,14 +31,14 @@
         <!--background. colorSurface is mapped to the surface of components such as cards, sheets-->
         <!--and menus. colorError is used to indicate an error state for components such as-->
         <!--text fields.-->
-        <item name="android:colorBackground">#777777</item>
-        <item name="colorSurface">#D854D1</item>
+        <item name="android:colorBackground">#26acd6</item>
+        <item name="colorSurface">#D4D1</item>
         <item name="colorError">#887458</item>
         <!--"On" colors define how text, icons and strokes are colored in relation to the surface-->
         <!--on which they appear.-->
         <item name="colorOnPrimary">#875963</item>
-        <item name="colorOnSecondary">#DDDDDD</item>
-        <item name="colorOnBackground">#87A444</item>
+        <item name="colorOnSecondary">#266</item>
+        <item name="colorOnBackground">#26d6</item>
         <item name="colorOnSurface">#99C555</item>
         <item name="colorOnError">#44452A</item>
         <!--Material type attributes-->

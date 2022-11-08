@@ -18,18 +18,18 @@
     <!--Top level DayNight theme to be used in AndroidManifest.xml-->
     <style name="Theme.MyApp" parent="Base.Theme.MyApp">
         <!--Material color attributes (dark theme) -->
-        <item name="colorPrimary">#ADADAD</item>
-        <item name="colorPrimaryVariant">#FFA584</item>
-        <item name="colorSecondary">#AFFFF5</item>
-        <item name="colorSecondaryVariant">#999999</item>
-        <item name="android:colorBackground">#874AAA</item>
-        <item name="colorSurface">#887AD2</item>
-        <item name="colorError">#87452A</item>
-        <item name="colorOnPrimary">#8745AA</item>
-        <item name="colorOnSecondary">#FFF888</item>
-        <item name="colorOnBackground">#784AAA</item>
-        <item name="colorOnSurface">#9874AA</item>
-        <item name="colorOnError">#874584</item>
+        <item name="colorPrimary">#ADAD</item>
+        <item name="colorPrimaryVariant">#FFA</item>
+        <item name="colorSecondary">#AFFF</item>
+        <item name="colorSecondaryVariant">#000</item>
+        <item name="android:colorBackground">#874A</item>
+        <item name="colorSurface">#7AD2</item>
+        <item name="colorError">#872A</item>
+        <item name="colorOnPrimary">#45AA</item>
+        <item name="colorOnSecondary">#ffff</item>
+        <item name="colorOnBackground">#78AA</item>
+        <item name="colorOnSurface">#94AA</item>
+        <item name="colorOnError">#8744</item>
         <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
         <item name="android:windowLightNavigationBar" tools:ignore="NewApi">false</item>
     </style>

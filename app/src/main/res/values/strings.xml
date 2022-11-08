@@ -18,113 +18,81 @@
     <string name="app_name"> App new </string>
     <string name="theme_name_hint">visual</string>
 
-    <string name="lorem_ipsum">
-
-أراه هنا، أو ه:
-عينهُ الزائغة في نهر
-النكبات، منخراه المتجذّران
-في تُربة
-المجازر، بطنه التي طحنتْ
-قمحَ
-الجنون في طواحين بابل
-لعشرة آلاف عام…
-
-أرى صورتَهُ
-التي فقدت إطارها
-في انفجارات التاريخ
-المستعادة
-تستعيد ملامحها كمرآةٍ
-لتدهشنا في كل مرة
-بمقدرتها الباذخة على التبذير.
-
-وفي جبينه الناصع
-يمكنك أن ترى
-كأنما على صفحات كتابٍ
-طابورَ الغزاة يمرُّ
-كما في فيلم بالأبيض والأسود:
-أعطه أيَّ سجن ومقبرة
-أعطه أي منفى
-أي هنا، أو هناك
-ورغم ذلك يمكنك أن ترى
-المنجنيقات تدكُّ الأسوار
-لتعلو مرّة أخرى.
-
-وتصعد أوروك من جديد</string>
+   <string name="lorem_ipsum">
+  pAZ
+</string>
 
     <!--Main-->
-    <string name="tab_title_instructions">Pasos</string>
-    <string name="tab_title_components">componentes!!</string>
-    <string name="tab_title_theme_summary">resumen</string>
+    <string name="tab_title_instructions">Pautas</string>
+    <string name="tab_title_components">partes</string>
+    <string name="tab_title_theme_summary">sinopsis</string>
 
     <!--Instructions-->
-    <string name="instructions_how_to">Llegué al club con el combo
-Rápido la vi lejos
-Se pintaba los labios
-Y la copa como espejo</string>
-    <string name="instructions_how_to_title">Se acercó poco a poco</string>
-    <string name="instructions_options_title">Y yo queriendo que me baile</string>
-    <string name="instructions_enable_dark_title">ma lento ma ocuro</string>
+    <string name="instructions_how_to">vivo por </string>
+    <string name="instructions_how_to_title">y para el chisme</string>
+    <string name="instructions_options_title">no me gusta</string>
+    <string name="instructions_enable_dark_title">vivir</string>
 
     <!--Component-->
-    <string name="text_headline_6">666</string>
-    <string name="text_body_2">222</string>
-    <string name="text_button">boton xd!</string>
-    <string name="text_overline">Sobrelinea!!!!</string>
+    <string name="text_headline_6">rerf</string>
+    <string name="text_body_2">el quinto elemnto</string>
+    <string name="text_button">saw</string>
+    <string name="text_overline">phone</string>
 
-    <string name="button_label_title">boton xd</string>
-    <string name="button_left_button_label">banda izq</string>
-    <string name="button_center_button_label">centro</string>
-    <string name="button_right_button_label">banda der</string>
+    <string name="button_label_title">push</string>
+    <string name="button_left_button_label">marvel</string>
+    <string name="button_center_button_label">terror</string>
+    <string name="button_right_button_label">no respires</string>
 
-    <string name="fab_label_title">FAB</string>
+    <string name="fab_label_title">figuras</string>
 
-    <string name="card_label_title">pipopi</string>
+    <string name="card_label_title">blueray</string>
 
-    <string name="chip_label_title">chispazos</string>
-    <string name="chip_action_title">acciones</string>
-    <string name="chip_filter_title">filtros</string>
-    <string name="chip_choice_title">elecciones!!</string>
-    <string name="chip_entry_title">entradiña</string>
+    <string name="chip_label_title">casa</string>
+    <string name="chip_action_title">de</string>
+    <string name="chip_filter_title">cera</string>
+    <string name="chip_choice_title">wash</string>
+    <string name="chip_entry_title">señor</string>
 
-    <string name="top_app_bar_label_title">barrarriba</string>
-    <string name="app_bar_menu_share">comprate!!</string>
-    <string name="app_bar_menu_search">busca</string>
-    <string name="app_bar_menu_bookmark">literalmente libromarca</string>
+    <string name="top_app_bar_label_title">de los anillos</string>
+    <string name="app_bar_menu_share">3</string>
+    <string name="app_bar_menu_search">pelis</string>
+    <string name="app_bar_menu_bookmark">muy largas</string>
 
-    <string name="drawer_label_title">dibujador:o</string>
+    <string name="drawer_label_title">golum</string>
 
     <string name="text_field_label_title" description="Label text for a text field [CHAR LIMIT=50]">Text field</string>
     <string name="text_field_hint_text">uwu</string>
 
-    <string name="bottom_nav_label_title">boton de navigacion</string>
-    <string name="bottom_nav_favorites_title">favs</string>
-    <string name="bottom_nav_music_title">temardos</string>
-    <string name="bottom_nav_places_title">Places</string>
-    <string name="bottom_nav_news_title">noticiones</string>
+    <string name="bottom_nav_label_title">pulsa</string>
+    <string name="bottom_nav_favorites_title">aqui</string>
+    <string name="bottom_nav_music_title">tpara</string>
+    <string name="bottom_nav_places_title">ver</string>
+    <string name="bottom_nav_news_title">mas</string>
 
-    <string name="switch_label_title">cambio!</string>
+    <string name="switch_label_title">ready</string>
 
-    <string name="radio_button_label_title">radio boton</string>
+    <string name="radio_button_label_title">circular</string>
 
-    <string name="checkbox_label_title">🛐🛐</string>
+    <string name="checkbox_label_title">nada</string>
 
-    <string name="bottom_app_bar_label_title">😭😭</string>
+    <string name="bottom_app_bar_label_title">puede</string>
 
-    <string name="tabs_label_title">tablas</string>
+    <string name="tabs_label_title">no</string>
 
-    <string name="snackbar_label_title">bruh</string>
-    <string name="snackbar_message_text">favs plus</string>
-    <string name="snackbar_action_text">otra vez acciones</string>
+    <string name="snackbar_label_title">que das</string>
+    <string name="snackbar_message_text">de lo</string>
+    <string name="snackbar_action_text">mucho mas</string>
 
-    <string name="dialog_label_title">diaolgantes</string>
-    <string name="dialog_button_label">chow</string>
+    <string name="dialog_label_title">saber</string>
+    <string name="dialog_button_label">pilow</string>
 
-    <string name="bottom_sheet_label_title">cayó la noche</string>
-    <string name="bottom_sheet_button_label">quevedo</string>
+    <string name="bottom_sheet_label_title">casa</string>
+    <string name="bottom_sheet_button_label">pluscuanperfecto</string>
 
 
     <!--Theme Summary-->
-    <string name="label_color_scheme_title">el combo</string>
+    <string name="label_color_scheme_title">hambre</string>
 
     <string name="label_shape_system_title">la l</string>
     <string name="shape_appearance_small_label">S</string>
