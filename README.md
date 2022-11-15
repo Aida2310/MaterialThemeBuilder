@@ -8,10 +8,10 @@ Documentación de los cambios  realizados en el proyecto MaterialBuilder.
 
 2.Cambios en todos los textos
 
-[GitHub Logo](./img/cambiosdtext.png)
+![GitHub Logo](./img/cambiosdtext.png)
 
-[GitHub Logo](./img/cmbtext2.png)
+![GitHub Logo](./img/cmbtext2.png)
 
 3.Cambios de  color  en el modo nocturno
 
-[GitHub Logo](./img/modonoche.png)
+![GitHub Logo](./img/modonoche.png)
