@@ -4,7 +4,7 @@ Documentación de los cambios  realizados en el proyecto MaterialBuilder.
 
 1.Cambios en el style  color
 
-![Cambio de color](/img/cambiocolor.png)
+![Cambio de color](./img/cambiocolor.png)
 
 2.Cambios en todos los textos
 
